@@ -54,3 +54,9 @@ You can transfer your repos back to your own account and quit this organization 
 
 * https://github.com/rowtype-yoga PureScript anarcho type-level collective is the model for this organization.
 * https://github.com/haskell-pkg-janitors Haskell package maintenance organization, but they don't publish a method for joining the org or adding libraries.
+
+## FAQ
+
+* Q. If someone upgrades my repo and publishes a release to Hackage while I'm on vacation, should I get offended?
+  
+  A. No. If they did something wrong then fix it and then publish another release.
