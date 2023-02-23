@@ -40,4 +40,10 @@ If any trustee
 
 then the trustee who vouched for them will be publicly blamed.
 
+## How to add a Trustee
 
+Any Trustee may add another person as a Trustee. Invite the other person to join the Github organziation, then add their name to the Trustee list and your own name as the Trustee who vouched for them. Every Trustee has full permission add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage.
+
+## How to quit being a Trustee
+
+You can transfer your repos back to your own account and quit this organization any time you want.
