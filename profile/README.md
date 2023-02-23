@@ -22,9 +22,9 @@ All libraries should have
 
 1. Names of authors and maintainers in README or .cabal file. Ways to contact.
 
-If a library has an active maintainer, then any volunteer library improvements should be submitted as Pull Requests. If a library has been abandoned,
+If a library has an active maintainer, then any volunteer library improvements should be submitted as Pull Requests. If a library is being ignored,
 then any Trustee may make improvements, publish new versions, or take over as a maintainer. Use courtesy and judgement when deciding whether
-a library has been abandoned.
+a library is being ignored.
 
 ## How to become a Trustee
 
@@ -42,8 +42,13 @@ then the trustee who vouched for them will be publicly blamed.
 
 ## How to add a Trustee
 
-Any Trustee may add another person as a Trustee. Invite the other person to join the Github organziation, then add their name to the Trustee list and your own name as the Trustee who vouched for them. Every Trustee has full permission add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage.
+Any Trustee may add another person who they trust to be a Trustee. Invite the other person to join the Github organziation, then add their name to the Trustee list and your own name as the Trustee who vouched for them. Every Trustee has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. Every Trustee must be a __Public__ member of the Github organization.
 
 ## How to quit being a Trustee
 
 You can transfer your repos back to your own account and quit this organization any time you want.
+
+## Other organizations
+
+* https://github.com/rowtype-yoga PureScript anarcho type-level collective is the model for this organization.
+* https://github.com/haskell-pkg-janitors Haskell package maintenance organization, but they don't publish a method for joining the org or adding libraries.
