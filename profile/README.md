@@ -32,11 +32,11 @@ Request to become a Trustee on Discussion page, or by asking any other Trustee. 
 We keep a record of which trustees were vouched for by whom.
 If any trustee 
 
+* Inserts malevolent code in a library
+* Uses the name of the __haskell-library-trust__ for fraud
 * Uses the __haskell-library-trust__ CI to mine Bitcoin
-* Inserts clandestine Bitcoin mining code in a library
-* Deliberately weakens the security of a library to introduce Bitcoin ransomware vulnerabilities
-* Uses the name of the __haskell-library-trust__ to sell Bitcoin-related services
-* Or any other similar non-Bitcoin-related activity
+* Transfers a library without permission of the maintainer
+* Or any other similar bad-faith activity
 
 then the trustee who vouched for them will be publicly blamed.
 
