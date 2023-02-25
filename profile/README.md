@@ -60,3 +60,7 @@ You can transfer your repos back to your own account and quit this organization 
 * Q. If someone upgrades my repo and publishes a release to Hackage while I'm on vacation, should I get offended?
   
   A. No. If they did something wrong then fix it and then publish another release.
+  
+* Q. What should I do if I suspect a Trustee is acting in bad faith?
+
+  A. Talk about it in private messages with the other Trustees.
