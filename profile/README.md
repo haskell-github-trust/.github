@@ -11,7 +11,7 @@ default it will be publicly available for someone else to maintain.
 The motivation is to reduce the difficultly for volunteers to maintain other people’s libraries.
 
 The current situation is that if I see a library on Hackage which needs an update and I want to do the update myself,
-I must email the author and ask to be added to the list of Hackage maintainers. In theory this seems like a good system,
+then I email the author and ask to be added to the list of Hackage maintainers. In theory this seems like a good system,
 but in practice it seems like that’s too much trouble, because there are a lot of useful libraries which are broken for want
 of simple updates. By collecting libraries in this trust, we hope to encourage volunteer maintenance.
 
@@ -44,7 +44,7 @@ then the trustee who vouched for them will be publicly blamed.
 
 ## How to add a Trustee
 
-Any Trustee may add another person who they trust to be a Trustee. Invite the other person to join the Github organziation, then add their name to the [Trustee list](../TRUSTEES.md) and your own name as the Trustee who vouched for them. Every Trustee has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. Every Trustee must be a __Public__ member of the Github organization.
+Any Trustee may add another person whom they trust to be a Trustee. Invite the other person to join the Github organziation, then add their name to the [Trustee list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trustee who vouched for them. Every Trustee has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. Every Trustee must be a __Public__ member of the Github organization.
 
 ## How to quit being a Trustee
 
