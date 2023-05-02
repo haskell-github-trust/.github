@@ -52,8 +52,9 @@ You can transfer your repos back to your own account and quit this organization 
 
 ## Other organizations
 
-* https://github.com/rowtype-yoga PureScript anarcho type-level collective is the model for this organization.
 * https://github.com/haskell-pkg-janitors Haskell package maintenance organization, but they don't publish a method for joining the org or adding libraries.
+* https://github.com/haskell-party/ Haskell package maintenance organization, but they don't publish a method for joining the org or adding libraries. [Introducing Haskell Party proposal](https://github.com/haskellfoundation/stability/pull/12)
+* https://github.com/rowtype-yoga PureScript anarcho type-level collective. Is the model for the Haskell Github Trust.
 
 ## FAQ
 
