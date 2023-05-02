@@ -50,6 +50,10 @@ Any Trustee may add another person whom they trust to be a Trustee. Invite the o
 
 You can transfer your repos back to your own account and quit this organization any time you want.
 
+## How to publish to Hackage
+
+WIP
+
 ## Other organizations
 
 * https://github.com/haskell-pkg-janitors Haskell package maintenance organization, but they don't publish a method for joining the org or adding libraries.
