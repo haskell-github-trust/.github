@@ -8,7 +8,7 @@ This is a place to store your Haskell libraries after you lose enthusiasm for ma
 You will still retain ownership and control of your library, but if you ever stop maintaining your library then by
 default it will be publicly available for someone else to maintain.
 
-The motivation is to reduce the difficultly for volunteers to maintain other people’s libraries.
+The motivation is to reduce the difficulty for volunteers to maintain other people’s libraries.
 
 The current situation is that if I see a library on Hackage which needs an update and I want to do the update myself,
 then I email the author and ask to be added to the list of Hackage maintainers. In theory this seems like a good system,
