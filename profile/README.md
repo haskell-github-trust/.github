@@ -44,7 +44,7 @@ then the trustee who vouched for them will be publicly blamed.
 
 ## How to add a Trustee
 
-Any Trustee may add another person whom they trust to be a Trustee. Invite the other person to join the Github organziation, then add their name to the [Trustee list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trustee who vouched for them. Every Trustee has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. Every Trustee must be a __Public__ member of the Github organization.
+Any Trustee may add another person whom they trust to be a Trustee. Invite the other person become an owner of this Github organization, then add their name to the [Trustee list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trustee who vouched for them. Every Trustee has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. Every Trustee must be a __Public__ member of the Github organization.
 
 ## How to quit being a Trustee
 
