@@ -62,7 +62,7 @@ WIP
 
 ## Managing Secrets
 
-Every Trustee is an Owner of the __haskell-github-trust__ organization, so every
+Every Trustee is an Owner of the __haskell-github-trust__ organization and has total control. The only restricted secrets are the passwords for the Hackage __github_haskell_trust__ account and the email account. These are stored in a separate organization https://github.com/haskell-github-trust-secrets
 
 ## Other organizations
 
