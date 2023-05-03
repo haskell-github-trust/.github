@@ -1,8 +1,8 @@
-# Haskell Github Trust
+# Haskell GitHub Trust
 
-Haskell Github Trust is a Github organization for community ownership of Haskell libraries.
+Haskell GitHub Trust is a GitHub organization for community ownership of Haskell libraries.
 
-The essential feature of the Haskell Github Trust is that the Trust has a Hackage account which has permission to publish any package in the Trust to Hackage.
+The essential feature of the Haskell GitHub Trust is that the Trust has a Hackage account which has permission to publish any package in the Trust to Hackage.
 
 This is a place to store your Haskell libraries after you lose enthusiasm for maintenance.
 You will still retain ownership and control of your library, but if you ever stop maintaining your library then by
@@ -15,10 +15,10 @@ then I email the author and ask to be added to the list of Hackage maintainers. 
 but in practice it seems like that’s too much trouble, because there are a lot of useful libraries which are broken for want
 of simple updates. By collecting libraries in this trust, we hope to encourage volunteer maintenance.
 
-## How to add libraries to the Haskell Github Trust
+## How to add libraries to the Haskell GitHub Trust
 
-1. Transfer Github ownership to https://github.com/haskell-github-trust
-2. Add `haskell-github-trust` as a Hackage maintainer.
+1. Transfer GitHub ownership to https://github.com/haskell-github-trust
+2. WIP ~Add `haskell-github-trust` as a Hackage maintainer.~
 
 All libraries should have 
 
@@ -44,7 +44,7 @@ then the trustee who vouched for them will be publicly blamed.
 
 ## How to add a Trustee
 
-Any Trustee may add another person whom they trust to be a Trustee. Invite the other person become an owner of this Github organization, then add their name to the [Trustee list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trustee who vouched for them. Every Trustee has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. Every Trustee must be a __Public__ member of the Github organization.
+Any Trustee may add another person whom they trust to be a Trustee. Invite the other person become an owner of this GitHub organization, then add their name to the [Trustee list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trustee who vouched for them. Every Trustee has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. Every Trustee should be a __Public__ member of the GitHub organization.
 
 ## How to quit being a Trustee
 
@@ -58,7 +58,7 @@ WIP
 
 * https://github.com/haskell-pkg-janitors Haskell package maintenance organization, but they don't publish a method for joining the org or adding libraries.
 * https://github.com/haskell-party/ Haskell package maintenance organization, but they don't publish a method for joining the org or adding libraries. [Introducing Haskell Party proposal](https://github.com/haskellfoundation/stability/pull/12)
-* https://github.com/rowtype-yoga PureScript anarcho type-level collective. Is the model for the Haskell Github Trust.
+* https://github.com/rowtype-yoga PureScript “anarcho type-level collective”. Is the model for the Haskell GitHub Trust.
 
 ## FAQ
 
