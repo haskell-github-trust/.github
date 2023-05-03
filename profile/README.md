@@ -10,7 +10,7 @@ default it will be publicly available for someone else to maintain.
 
 The motivation is to reduce the difficulty for volunteers to maintain other people’s packages.
 
-The current situation is that if I see a pacakge on Hackage which needs an update and I want to do the update myself,
+The current situation is that if I see a package on Hackage which needs an update and I want to do the update myself,
 then I email the author and ask to be added to the list of Hackage maintainers. In theory this seems like a good system,
 but in practice it seems like that’s too much trouble, because there are a lot of useful packages which are broken for want
 of simple updates. By collecting packages in this trust, we hope to encourage volunteer maintenance.
