@@ -18,7 +18,7 @@ of simple updates. By collecting libraries in this trust, we hope to encourage v
 ## How to add libraries to the Haskell GitHub Trust
 
 1. Transfer GitHub ownership to https://github.com/haskell-github-trust
-2. WIP ~Add `haskell-github-trust` as a Hackage maintainer.~
+2. Add https://hackage.haskell.org/user/haskell_github_trust as a Hackage maintainer.
 
 All libraries should have 
 
