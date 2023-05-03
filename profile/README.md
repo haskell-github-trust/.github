@@ -22,14 +22,6 @@ of simple updates. By collecting packages in this trust, we hope to encourage vo
 
 That’s it. We accept all packages, in any condition, with zero commitment or obligation.
 
-## Package manners
-
-If a package has an active maintainer, then any volunteer improvements should be submitted as Pull Requests.
-
-If a package is being ignored,
-then any Trustee may make improvements, publish new versions, or take over as a maintainer. Use courtesy and judgement when deciding whether
-a package is being ignored.
-
 ## How to become a Trustee
 
 Request to become a Trustee on Discussion page, or by asking any other Trustee. Trustees must be vouched for by one other trustee.
@@ -58,11 +50,19 @@ Any Trustee may add another person whom they trust to be a Trustee. Invite the o
 
 You can transfer your repos back to your own account and quit this organization any time you want.
 
+## Package manners
+
+If a package has an active maintainer, then any volunteer improvements should be submitted as Pull Requests.
+
+If a package is being ignored,
+then any Trustee may make improvements, publish new versions, or take over as a maintainer. Use courtesy and judgement when deciding whether
+a package is being ignored.
+
 ## How to publish to Hackage
 
 WIP
 
-## Managing Secrets
+## Secrets
 
 Every Trustee is an Owner of the __haskell-github-trust__ organization and has total control. The only restricted secrets are the passwords for the Hackage [__haskell_github_trust__](https://hackage.haskell.org/user/haskell_github_trust) account and the email account. These are stored in a separate organization https://github.com/haskell-github-trust-secrets
 
