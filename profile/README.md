@@ -32,7 +32,13 @@ a library is being ignored.
 
 Request to become a Trustee on Discussion page, or by asking any other Trustee. Trustees must be vouched for by one other trustee.
 We keep a record of which trustees were vouched for by whom.
-If any trustee 
+
+Every Trustee is an Owner of the __haskell-github-trust__ organization, so every Trustee can
+
+* Transfer repositories in and out of the organization.
+* Publish packages to Hackage via [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust) account Authenticantion Token.
+
+If any Trustee 
 
 * Inserts malevolent code in a library
 * Uses the __haskell-github-trust__ for fraud
@@ -40,7 +46,7 @@ If any trustee
 * Transfers a library without permission of the maintainer
 * Or any other similar bad-faith activity
 
-then the trustee who vouched for them will be publicly blamed.
+then that person and the Trustee who vouched for them will be publicly blamed.
 
 ## How to add a Trustee
 
@@ -53,6 +59,10 @@ You can transfer your repos back to your own account and quit this organization 
 ## How to publish to Hackage
 
 WIP
+
+## Managing Secrets
+
+Every Trustee is an Owner of the __haskell-github-trust__ organization, so every
 
 ## Other organizations
 
