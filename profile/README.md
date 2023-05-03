@@ -81,3 +81,11 @@ Every Trustee is an Owner of the __haskell-github-trust__ organization and has t
 * Q. What should I do if I suspect a Trustee is acting in bad faith?
 
   A. Talk about it in private messages with the other Trustees.
+
+* Q. What happens if one of the Trustee-owners transfers all the repos to the Trustee-owner’s private account?
+
+  A. We can fork the repositories back here and expel the Trustee-owner.
+  
+* Q. What happens if one of the Trustee-owners inserts security vulnerabilities and publishes to Hackage?
+
+  A. This org has a Hackage Authentication Token, but not the Hackage password or email account. So we can revoke the Authentication Token and expel the Trustee-owner.
