@@ -20,7 +20,7 @@ of simple updates. By collecting packages in this trust, we hope to encourage vo
 1. Transfer GitHub ownership of the package repository to this organization, https://github.com/haskell-github-trust
 2. Add https://hackage.haskell.org/user/haskell_github_trust as a Hackage maintainer for the package.
 
-That’s it.
+That’s it. We accept all packages, in any condition, with zero commitment or obligation.
 
 ## Package manners
 
