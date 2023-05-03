@@ -1,32 +1,32 @@
 # Haskell GitHub Trust
 
-Haskell GitHub Trust is a GitHub organization for community ownership of Haskell libraries.
+Haskell GitHub Trust is a GitHub organization for community ownership of Haskell packages.
 
 The essential feature of the Haskell GitHub Trust is that the Trust has a Hackage account which has permission to publish any package in the Trust to Hackage.
 
-This is a place to store your Haskell libraries after you lose enthusiasm for maintenance.
-You will still retain ownership and control of your library, but if you ever stop maintaining your library then by
+This is a place to store your Haskell packages after you lose enthusiasm for maintenance.
+You will still retain ownership and control of your package, but if you ever stop maintaining your package then by
 default it will be publicly available for someone else to maintain.
 
-The motivation is to reduce the difficulty for volunteers to maintain other people’s libraries.
+The motivation is to reduce the difficulty for volunteers to maintain other people’s packages.
 
-The current situation is that if I see a library on Hackage which needs an update and I want to do the update myself,
+The current situation is that if I see a pacakge on Hackage which needs an update and I want to do the update myself,
 then I email the author and ask to be added to the list of Hackage maintainers. In theory this seems like a good system,
-but in practice it seems like that’s too much trouble, because there are a lot of useful libraries which are broken for want
-of simple updates. By collecting libraries in this trust, we hope to encourage volunteer maintenance.
+but in practice it seems like that’s too much trouble, because there are a lot of useful packages which are broken for want
+of simple updates. By collecting packages in this trust, we hope to encourage volunteer maintenance.
 
-## How to add libraries to the Haskell GitHub Trust
+## How to add packages to the Haskell GitHub Trust
 
-1. Transfer GitHub ownership to https://github.com/haskell-github-trust
-2. Add https://hackage.haskell.org/user/haskell_github_trust as a Hackage maintainer.
+1. Transfer GitHub ownership of the package repository to https://github.com/haskell-github-trust
+2. Add https://hackage.haskell.org/user/haskell_github_trust as a Hackage maintainer for the package.
 
-All libraries should have 
+All packages should have 
 
 1. Names of authors and maintainers in README or .cabal file. Ways to contact.
 
-If a library has an active maintainer, then any volunteer library improvements should be submitted as Pull Requests. If a library is being ignored,
+If a package has an active maintainer, then any volunteer improvements should be submitted as Pull Requests. If a package is being ignored,
 then any Trustee may make improvements, publish new versions, or take over as a maintainer. Use courtesy and judgement when deciding whether
-a library is being ignored.
+a package is being ignored.
 
 ## How to become a Trustee
 
@@ -40,10 +40,10 @@ Every Trustee is an Owner of the __haskell-github-trust__ organization, so every
 
 If any Trustee 
 
-* Inserts malevolent code in a library
+* Inserts malevolent code in a package
 * Uses the __haskell-github-trust__ for fraud
 * Uses the __haskell-github-trust__ CI to mine Bitcoin
-* Transfers a library without permission of the maintainer
+* Transfers a package repository without permission of the maintainer
 * Or any other similar bad-faith activity
 
 then that person and the Trustee who vouched for them will be publicly blamed.
