@@ -20,11 +20,13 @@ of simple updates. By collecting packages in this trust, we hope to encourage vo
 1. Transfer GitHub ownership of the package repository to https://github.com/haskell-github-trust
 2. Add https://hackage.haskell.org/user/haskell_github_trust as a Hackage maintainer for the package.
 
-All packages should have 
+That’s it.
 
-1. Names of authors and maintainers in README or .cabal file. Ways to contact.
+## Package manners
 
-If a package has an active maintainer, then any volunteer improvements should be submitted as Pull Requests. If a package is being ignored,
+If a package has an active maintainer, then any volunteer improvements should be submitted as Pull Requests.
+
+If a package is being ignored,
 then any Trustee may make improvements, publish new versions, or take over as a maintainer. Use courtesy and judgement when deciding whether
 a package is being ignored.
 
