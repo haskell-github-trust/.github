@@ -9,4 +9,10 @@
 | Jonas Carpay | https://github.com/jonascarpay |  | James D. Brock |
 | Liyang Hu | https://github.com/liyang |  | James D. Brock |
 | Thomas M. DuBuisson | https://github.com/TomMD |  | James D. Brock |
+| Liu Yuxi | https://github.com/crvdgc |  | James D. Brock |
+| Fumiaki Kinoshita | https://github.com/fumieval |  | James D. Brock |
+| Justin Garcia | https://github.com/purefunctor |  | James D. Brock |
+| Adrian Sieber | https://github.com/ad-si |  | James D. Brock |
+| Viktor Kronvall | https://github.com/considerate |  | James D. Brock |
+| Isaac Shapira | https://github.com/Fresheyeball |  | James D. Brock |
 
