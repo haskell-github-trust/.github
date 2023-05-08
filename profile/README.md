@@ -62,6 +62,11 @@ a package is being ignored.
 
 WIP
 
+## How to take over a package
+
+Follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with the
+Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust).
+
 ## Secrets
 
 Every Trustee is an Owner of the __haskell-github-trust__ organization and has total control. The only restricted secrets are the passwords for the Hackage [__haskell_github_trust__](https://hackage.haskell.org/user/haskell_github_trust) account and the email account. These are stored in a separate organization https://github.com/haskell-github-trust-secrets
