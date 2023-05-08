@@ -2,7 +2,10 @@
 
 Haskell GitHub Trust is a GitHub organization for community ownership of Haskell packages.
 
-The essential feature of the Haskell GitHub Trust is that the Trust has a Hackage account which has permission to publish any package in the Trust to Hackage.
+The essential feature of the Haskell GitHub Trust is that the Trust has a 
+Hackage account
+[haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust)
+which has permission to publish any package in the Trust to Hackage.
 
 This is a place to store your Haskell packages after you lose enthusiasm for maintenance.
 You will still retain ownership and control of your package, but if you ever stop maintaining your package then by
