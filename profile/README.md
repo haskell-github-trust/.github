@@ -47,7 +47,7 @@ then that person and the Trust Owner who vouched for them will be publicly blame
 
 ## How to add a Trust Owner
 
-Any Trust Owner may add another person whom they trust to be a Trust Owner. Invite the other person become an Owner of this GitHub organization, then add their name to the [Trust Owner list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trust Owner who vouched for them. Every Trust Owner has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. For transparency, every Trust Owner should be a __Public__ member of the GitHub organization.
+Any Trust Owner may add another person whom they trust to be a Trust Owner. Invite the other person become an Owner of this GitHub organization, then add their name to the [Trust Owner list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trust Owner who vouched for them. Every Trust Owner has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. For transparency, every Trust Owner should be a [__Public Owner__](https://github.com/orgs/haskell-github-trust/people) of the GitHub organization.
 
 ## How to quit being a Trust Owner
 
