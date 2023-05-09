@@ -25,17 +25,17 @@ of simple updates. By collecting packages in this trust, we hope to encourage vo
 
 That’s it. We accept all packages, in any condition, with zero commitment or obligation.
 
-## How to become a Trustee
+## How to become a Trust Owner
 
-Request to become a Trustee on Discussion page, or by asking any other Trustee. Trustees must be vouched for by one other trustee.
-We keep a record of which trustees were vouched for by whom.
+Request to become a Trust Owner on Discussion page, or by asking any other Trust Owner. Trust Owners must be vouched for by one other Trust Owner.
+We keep a [record of which Trust Owners were vouched for by whom](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md).
 
-Every Trustee is an Owner of the __haskell-github-trust__ organization, so every Trustee can
+Every Trust Owner is an Owner of the __haskell-github-trust__ organization, so every Trust Owner can
 
 * Transfer repositories in and out of the organization.
 * Publish packages to Hackage via [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust) account Authenticantion Token.
 
-If any Trustee 
+If any Trust Owner
 
 * Inserts malevolent code in a package
 * Uses the __haskell-github-trust__ for fraud
@@ -43,13 +43,13 @@ If any Trustee
 * Transfers a package repository without permission of the maintainer
 * Or any other similar bad-faith activity
 
-then that person and the Trustee who vouched for them will be publicly blamed.
+then that person and the Trust Owner who vouched for them will be publicly blamed.
 
-## How to add a Trustee
+## How to add a Trust Owner
 
-Any Trustee may add another person whom they trust to be a Trustee. Invite the other person become an owner of this GitHub organization, then add their name to the [Trustee list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trustee who vouched for them. Every Trustee has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. Every Trustee should be a __Public__ member of the GitHub organization.
+Any Trust Owner may add another person whom they trust to be a Trust Owner. Invite the other person become an Owner of this GitHub organization, then add their name to the [Trust Owner list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trust Owner who vouched for them. Every Trust Owner has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. Every Trust Owner should be a __Public__ member of the GitHub organization.
 
-## How to quit being a Trustee
+## How to quit being a Trust Owner
 
 You can transfer your repos back to your own account and quit this organization any time you want.
 
@@ -58,7 +58,7 @@ You can transfer your repos back to your own account and quit this organization 
 If a package has an active maintainer, then any volunteer improvements should be submitted as Pull Requests.
 
 If a package is being ignored,
-then any Trustee may make improvements, publish new versions, or take over as a maintainer. Use courtesy and judgement when deciding whether
+then any Trust Owner may make improvements, publish new versions, or take over as a maintainer. Use courtesy and judgement when deciding whether
 a package is being ignored.
 
 ## How to publish to Hackage
@@ -72,7 +72,7 @@ Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_
 
 ## Secrets
 
-Every Trustee is an Owner of the __haskell-github-trust__ organization and has total control. The only restricted secrets are the passwords for the Hackage [__haskell_github_trust__](https://hackage.haskell.org/user/haskell_github_trust) account and the email account. These are stored in a separate organization https://github.com/haskell-github-trust-secrets
+Every Trust Owner is an Owner of the __haskell-github-trust__ organization and has total control. The only restricted secrets are the passwords for the Hackage [__haskell_github_trust__](https://hackage.haskell.org/user/haskell_github_trust) account and the email account. These are stored in a separate organization https://github.com/haskell-github-trust-secrets
 
 ## Other organizations
 
@@ -86,14 +86,14 @@ Every Trustee is an Owner of the __haskell-github-trust__ organization and has t
   
   A. No. If they did something wrong then fix it and then publish another release.
   
-* Q. What should I do if I suspect a Trustee is acting in bad faith?
+* Q. What should I do if I suspect a Trust Owner is acting in bad faith?
 
-  A. Talk about it in private messages with the other Trustees.
+  A. Talk about it in private messages with the other Trust Owners.
 
-* Q. What happens if one of the Trustee-owners transfers all the repos to the Trustee-owner’s private account?
+* Q. What happens if one of the Trust Owners transfers all the repos to the Trust Owner’s private account?
 
-  A. We can fork the repositories back here and expel the Trustee-owner.
+  A. We can fork the repositories back here and expel the Trust Owner.
   
-* Q. What happens if one of the Trustee-owners inserts security vulnerabilities and publishes to Hackage?
+* Q. What happens if one of the Trust Owners inserts security vulnerabilities and publishes to Hackage?
 
-  A. This org has a Hackage Authentication Token, but not the Hackage password or email account. So we can revoke the Authentication Token and expel the Trustee-owner.
+  A. This org has a Hackage Authentication Token, but not the Hackage password or email account. So we can revoke the Authentication Token and expel the Trust Owner.
