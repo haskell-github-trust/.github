@@ -49,7 +49,7 @@ You can transfer your repos back to your own account and quit this organization 
 If a package has an active maintainer, then any volunteer improvements should be submitted as Pull Requests.
 
 If a package is being ignored,
-then any Trust Owner may make improvements, publish new versions, or take over as a maintainer. Use courtesy and judgement when deciding whether
+then any Trust Owner may make improvements and publish new versions. Use courtesy and judgement when deciding whether
 a package is being ignored.
 
 ## How to publish to Hackage
