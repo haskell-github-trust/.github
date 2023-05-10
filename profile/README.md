@@ -93,6 +93,6 @@ The only restricted secret is the password for the email account used to create 
 
   A. We can fork the repositories back here and expel the Trust Owner.
   
-* Q. What happens if one of the Trust Owners inserts security vulnerabilities and publishes to Hackage?
+* Q. What happens if one of the Trust Owners inserts malicious code and publishes to Hackage?
 
   A. Talk to the Hackage Trustees.
