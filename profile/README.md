@@ -10,14 +10,7 @@ The essential features of the Haskell GitHub Trust are
 This is a place to keep your Haskell packages for long-term community maintenance.
 
 You will still retain ownership and control of your package, but if you ever stop maintaining your package then by
-default it will be publicly available for someone else to maintain.
-
-The motivation is to reduce the difficulty for volunteers to maintain other people’s packages.
-
-The current situation is that if I see a package on Hackage which needs an update and I want to do the update myself,
-then I email the author and ask to be added to the list of Hackage maintainers. In theory this seems like a good system,
-but in practice it seems like that’s too much trouble, because there are a lot of useful packages which are broken for want
-of simple updates. By collecting packages in this trust, we hope to encourage volunteer maintenance.
+default it will be available for the community to maintain.
 
 ## How to add a package to the Haskell GitHub Trust
 
