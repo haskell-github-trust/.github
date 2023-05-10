@@ -98,3 +98,7 @@ The only restricted secret is the password for the email account used to create 
 * Q. What happens if one of the Trust Owners inserts malicious code and publishes to Hackage?
 
   A. Talk to the Hackage Trustees.
+  
+* Q. What happens if a Trust Owner deletes this whole org?
+
+  A. We rebuild from clones of the repositories. No information would be lost.
