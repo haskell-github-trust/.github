@@ -40,18 +40,6 @@ then that person and the Trust Owner who vouched for them will be publicly blame
 
 Any Trust Owner may add another person whom they trust to be a Trust Owner. Invite the other person become an Owner of this GitHub organization, then add their name to the [Trust Owner list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trust Owner who vouched for them. For transparency, every Trust Owner should be a [__*Public*__ Owner](https://github.com/orgs/haskell-github-trust/people) of the GitHub organization.
 
-## How to quit being a Trust Owner
-
-You can transfer your repos back to your own account and quit this organization any time you want.
-
-## Package manners
-
-If a package has an active maintainer, then any volunteer improvements should be submitted as Pull Requests.
-
-If a package is being ignored,
-then any Trust Owner may make improvements and publish new versions. Use courtesy and judgement when deciding whether
-a package is being ignored.
-
 ## How to publish to Hackage
 
 You need your own “uploader group” account on Hackage. Use the [haskell_github_trust](https://github.com/haskell-github-trust/secrets) account to
@@ -68,6 +56,18 @@ Then you can [upload](https://hackage.haskell.org/upload) the package.
 
 Fork the package repository into this org, then follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with the
 Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust).
+
+## How to quit being a Trust Owner
+
+You can transfer your repos back to your own account and quit this organization any time you want.
+
+## Package manners
+
+If a package has an active maintainer, then any volunteer improvements should be submitted as Pull Requests.
+
+If a package is being ignored,
+then any Trust Owner may make improvements and publish new versions. Use courtesy and judgement when deciding whether
+a package is being ignored.
 
 ## Secrets
 
