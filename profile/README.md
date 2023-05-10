@@ -62,6 +62,8 @@ on [hackage.haskell.org/upload](https://hackage.haskell.org/upload).
 > 
 > Occasionally organizations want to have a group / organizational account for a package that is maintained by a group of people. The recommended approach for these cases is to only do package uploads from individual accounts and use the group account only for managing the maintainer list for the package.
 
+Then you can [upload](https://hackage.haskell.org/upload).
+
 ## How to take over a package
 
 Fork the package repository into this org, then follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with the
