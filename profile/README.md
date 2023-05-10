@@ -64,7 +64,7 @@ on [hackage.haskell.org/upload](https://hackage.haskell.org/upload).
 
 ## How to take over a package
 
-Follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with the
+Fork the package repository into this org, then follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with the
 Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust).
 
 ## Secrets
@@ -75,9 +75,9 @@ The only restricted secret is the password for the email account used to create 
 
 ## Other organizations
 
-* https://github.com/haskell-pkg-janitors Haskell package maintenance organization, but they don't publish a method for joining the org or adding libraries.
-* https://github.com/haskell-party/ Haskell package maintenance organization, but they don't publish a method for joining the org or adding libraries. [Introducing Haskell Party proposal](https://github.com/haskellfoundation/stability/pull/12)
-* https://github.com/rowtype-yoga PureScript “anarcho type-level collective”. Is the model for the Haskell GitHub Trust.
+* https://github.com/haskell-pkg-janitors Haskell package maintenance organization. [how to join this group?](https://github.com/orgs/haskell-pkg-janitors/discussions/3)
+* https://github.com/haskell-party/ Haskell package maintenance organization. [Introducing Haskell Party proposal](https://github.com/haskellfoundation/stability/pull/12)
+* https://github.com/rowtype-yoga This PureScript “anarcho type-level collective” is the model for the Haskell GitHub Trust.
 
 ## FAQ
 
