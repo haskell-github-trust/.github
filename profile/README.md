@@ -101,4 +101,5 @@ The only restricted secret is the password for the email account used to create 
   
 * Q. What happens if a Trust Owner deletes this whole org?
 
-  A. We rebuild from clones of the repositories. We would lose the information in the GitHub Issues.
+  A. We can rebuild this org from local clones of the repositories. We would lose the information in the GitHub Issues.
+     Nothing else would be lost.
