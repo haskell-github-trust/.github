@@ -2,12 +2,13 @@
 
 Haskell GitHub Trust is a GitHub organization for community ownership of Haskell packages.
 
-The essential feature of the Haskell GitHub Trust is that the Trust has a 
-Hackage account
-[haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust)
-which has permission to publish any package in the Trust to Hackage.
+The essential features of the Haskell GitHub Trust are
 
-This is a place to store your Haskell packages after you lose enthusiasm for maintenance.
+1. All Haskell Github Trust organization members are Owners, and have control over all repositories, including tranferring in and out.
+2. A Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust).
+
+This is a place to keep your Haskell packages for long-term community maintenance.
+
 You will still retain ownership and control of your package, but if you ever stop maintaining your package then by
 default it will be publicly available for someone else to maintain.
 
@@ -18,7 +19,7 @@ then I email the author and ask to be added to the list of Hackage maintainers. 
 but in practice it seems like that’s too much trouble, because there are a lot of useful packages which are broken for want
 of simple updates. By collecting packages in this trust, we hope to encourage volunteer maintenance.
 
-## How to add packages to the Haskell GitHub Trust
+## How to add a package to the Haskell GitHub Trust
 
 1. Transfer GitHub ownership of the package repository to this organization, https://github.com/haskell-github-trust
 2. Add https://hackage.haskell.org/user/haskell_github_trust as a Hackage maintainer for the package.
@@ -30,13 +31,7 @@ That’s it. We accept all packages, in any condition, with zero commitment or o
 Request to become a Trust Owner on Discussion page, or by asking any other Trust Owner. Trust Owners must be vouched for by one other Trust Owner.
 We keep a [record of which Trust Owners were vouched for by whom](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md).
 
-After you accept the Trust Owner invitation, [set your visiblity to __*Public*__](https://github.com/orgs/haskell-github-trust/people) so that
-everyone can see that you have Hackage upload permission on all of these packages.
-
-Every Trust Owner is an Owner of the __haskell-github-trust__ organization, so every Trust Owner can
-
-* Transfer repositories in and out of the organization.
-* Publish packages to Hackage via [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust) account Authenticantion Token.
+After you accept the Trust Owner invitation, [set your visiblity to __*Public*__](https://github.com/orgs/haskell-github-trust/people) for transparency.
 
 If any Trust Owner
 
@@ -50,7 +45,7 @@ then that person and the Trust Owner who vouched for them will be publicly blame
 
 ## How to add a Trust Owner
 
-Any Trust Owner may add another person whom they trust to be a Trust Owner. Invite the other person become an Owner of this GitHub organization, then add their name to the [Trust Owner list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trust Owner who vouched for them. Every Trust Owner has full permission to add repositories, to transfer repositories, to change repositories, and to publish packages to Hackage. For transparency, every Trust Owner should be a [__*Public*__ Owner](https://github.com/orgs/haskell-github-trust/people) of the GitHub organization.
+Any Trust Owner may add another person whom they trust to be a Trust Owner. Invite the other person become an Owner of this GitHub organization, then add their name to the [Trust Owner list](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md) and your own name as the Trust Owner who vouched for them. For transparency, every Trust Owner should be a [__*Public*__ Owner](https://github.com/orgs/haskell-github-trust/people) of the GitHub organization.
 
 ## How to quit being a Trust Owner
 
@@ -66,7 +61,13 @@ a package is being ignored.
 
 ## How to publish to Hackage
 
-WIP
+You need your own “uploader” account on Hackage. Use the [haskell_github_trust](https://github.com/haskell-github-trust/secrets) account to
+add your own “uploader” account to the list of package Maintainers. The __haskell_github_trust__ account is a “Group Account” as described
+on [hackage.haskell.org/upload](https://hackage.haskell.org/upload).
+
+> #### Group Accounts
+> 
+> Occasionally organizations want to have a group / organizational account for a package that is maintained by a group of people. The recommended approach for these cases is to only do package uploads from individual accounts and use the group account only for managing the maintainer list for the package.
 
 ## How to take over a package
 
@@ -75,7 +76,9 @@ Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_
 
 ## Secrets
 
-Every Trust Owner is an Owner of the __haskell-github-trust__ organization and has total control. The only restricted secrets are the passwords for the Hackage [__haskell_github_trust__](https://hackage.haskell.org/user/haskell_github_trust) account and the email account. These are stored in a separate organization https://github.com/haskell-github-trust-secrets
+The password for the __haskell_github_trust__ Hackage account is in https://github.com/haskell-github-trust/secrets . 
+
+The only restricted secret is the password for the email account used to create the __haskell_github_trust__ acount. This is stored in a separate organization https://github.com/haskell-github-trust-secrets
 
 ## Other organizations
 
@@ -99,4 +102,4 @@ Every Trust Owner is an Owner of the __haskell-github-trust__ organization and h
   
 * Q. What happens if one of the Trust Owners inserts security vulnerabilities and publishes to Hackage?
 
-  A. This org has a Hackage Authentication Token, but not the Hackage password or email account. So we can revoke the Authentication Token and expel the Trust Owner.
+  A. Talk to the Hackage Trustees.
