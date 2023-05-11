@@ -16,4 +16,4 @@
 | Viktor Kronvall | https://github.com/considerate |  | James D. Brock |
 | Isaac Shapira | https://github.com/Fresheyeball |  | James D. Brock |
 | Steve Purcell | https://github.com/purcell |  | James D. Brock |
-| Vaibhav Sagar | https://github.com/vaibhavsagar | James D. Brock |
+| Vaibhav Sagar | https://github.com/vaibhavsagar |  | James D. Brock |
