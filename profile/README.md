@@ -9,8 +9,7 @@ The essential features of the Haskell GitHub Trust are
 
 This is a place to keep your Haskell packages for long-term community maintenance.
 
-You will still retain ownership and control of your package, but if you ever stop maintaining your package then by
-default it will be available for the community to maintain.
+You will still retain ownership and control of your package, but if you ever stop maintaining your package then someone else can do it without needing your permission.
 
 ## How to add a package to the Haskell GitHub Trust
 
