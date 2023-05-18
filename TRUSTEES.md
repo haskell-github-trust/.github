@@ -19,3 +19,4 @@
 | Vaibhav Sagar | https://github.com/vaibhavsagar |  | James D. Brock |
 | Adrian Seiber | https://github.com/ad-si |  | James D. Brock |
 | Ollie Charles | https://github.com/ocharles |  | James D. Brock |
+| Ramin Honary | https://github.com/RaminHAL9001 |  | James D. Brock |
