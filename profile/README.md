@@ -4,7 +4,7 @@ Haskell GitHub Trust is a GitHub organization for community ownership of Haskell
 
 The essential features of the Haskell GitHub Trust are
 
-1. All Haskell Github Trust organization members are Owners, and have control over all repositories, including tranferring in and out.
+1. All Haskell Github Trust organization members are Owners, and have control over all repositories, including transferring in and out.
 2. A Hackage “Group Account” [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust).
 
 This is a place to keep your Haskell packages for long-term community maintenance.
