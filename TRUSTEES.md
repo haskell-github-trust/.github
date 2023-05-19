@@ -20,3 +20,4 @@
 | Adrian Seiber | https://github.com/ad-si |  | James D. Brock |
 | Ollie Charles | https://github.com/ocharles |  | James D. Brock |
 | Ramin Honary | https://github.com/RaminHAL9001 |  | James D. Brock |
+| Mark Wotton | https://github.com/mwotton |  | James D. Brock |
