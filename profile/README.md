@@ -41,9 +41,9 @@ Any Trust Owner may add another person whom they trust to be a Trust Owner. [Inv
 
 ## How to publish to Hackage
 
-You need your own “uploader group” account on Hackage. Use the [__haskell_github_trust__ account password](https://github.com/haskell-github-trust/secrets) 
-to add your own “uploader group” account to the list of package Maintainers.
-The __haskell_github_trust__ account is a “Group Account” as described
+You need your own “uploader” account on Hackage. Use the [__haskell_github_trust__ account password](https://github.com/haskell-github-trust/secrets) 
+to add your own “uploader” account to the list of package Maintainers.
+The __haskell_github_trust__ account does not have upload permission, rather it is a “Group Account” as described
 on [hackage.haskell.org/upload](https://hackage.haskell.org/upload).
 
 > #### Group Accounts
