@@ -30,7 +30,7 @@ If any Trust Owner
 * Inserts malevolent code in a package
 * Uses the __haskell-github-trust__ for fraud
 * Uses the __haskell-github-trust__ CI to mine Bitcoin
-* Transfers a package repository without permission of the maintainer
+* Transfers a package repository out of this org without permission of the maintainer
 * Or any other similar bad-faith activity
 
 then that person and the Trust Owner who vouched for them will be publicly blamed.
