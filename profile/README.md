@@ -20,7 +20,7 @@ That’s it. We accept all packages, in any condition, with zero commitment or o
 
 ## How to become a Trust Owner
 
-Request to become a Trust Owner on Discussion page, or by asking any other Trust Owner. Trust Owners must be vouched for by one other Trust Owner.
+Request to become a Trust Owner on the [Discussions](https://github.com/orgs/haskell-github-trust/discussions) page, or by asking any other Trust Owner. Trust Owners must be vouched for by one other Trust Owner.
 We keep a [record of which Trust Owners were vouched for by whom](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md).
 
 After you accept the Trust Owner invitation, [set your visiblity to __*Public*__](https://github.com/orgs/haskell-github-trust/people) for transparency.
