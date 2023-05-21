@@ -54,7 +54,7 @@ In this way you can [upload](https://hackage.haskell.org/upload) any package in 
 
 ## How to add other people’s packages to the Trust
 
-1. Follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with your own Hackage account.
+1. Follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with your own Hackage account. Declare your intent to add the package to the Haskell GitHub Trust.
 2. Add the Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust) to the list of package Maintainers.
 3. Transfer or fork the package repository into this org.
 
