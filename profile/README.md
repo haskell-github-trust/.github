@@ -11,7 +11,7 @@ This is a place to keep your Haskell packages for long-term community maintenanc
 
 You will still retain ownership and control of your package, but if you ever stop maintaining your package then someone else can do it without needing your permission.
 
-## How to add a package to the Haskell GitHub Trust
+## How to add your own package to the Trust
 
 1. Transfer GitHub ownership of the package repository to this organization, https://github.com/haskell-github-trust
 2. Add https://hackage.haskell.org/user/haskell_github_trust as a Hackage maintainer for the package.
@@ -52,10 +52,11 @@ on [hackage.haskell.org/upload](https://hackage.haskell.org/upload).
 
 In this way you can [upload](https://hackage.haskell.org/upload) any package in this org.
 
-## How to take over a package
+## How to add other people’s packages to the Trust
 
-Fork the package repository into this org, then follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with the
-Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust).
+1. Follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with your own Hackage account.
+2. Add the Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust) to the list of package Maintainers.
+3. Fork the package repository into this org.
 
 ## How to quit being a Trust Owner
 
