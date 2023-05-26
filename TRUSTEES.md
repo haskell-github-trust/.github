@@ -21,3 +21,4 @@
 | Ollie Charles | https://github.com/ocharles |  | James D. Brock |
 | Ramin Honary | https://github.com/RaminHAL9001 |  | James D. Brock |
 | Mark Wotton | https://github.com/mwotton |  | James D. Brock |
+| YAMAMATO Yuji | https://github.com/igrep |  | James D. Brock |
