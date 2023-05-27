@@ -22,3 +22,4 @@
 | Ramin Honary | https://github.com/RaminHAL9001 |  | James D. Brock |
 | Mark Wotton | https://github.com/mwotton |  | James D. Brock |
 | YAMAMATO Yuji | https://github.com/igrep |  | James D. Brock |
+| Tim McGilchrist | https://github.com/tmcgilchrist |  | James D. Brock |
