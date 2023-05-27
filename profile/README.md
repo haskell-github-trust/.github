@@ -80,6 +80,7 @@ The only restricted secret is the password for the email account used to create 
 
 * https://github.com/haskell-pkg-janitors Haskell package maintenance organization. [how to join this group?](https://github.com/orgs/haskell-pkg-janitors/discussions/3)
 * https://github.com/haskell-party/ Haskell package maintenance organization. [Introducing Haskell Party proposal](https://github.com/haskellfoundation/stability/pull/12)
+* https://github.com/haskell-works Also has a “Group Account” [haskellworks](https://hackage.haskell.org/user/haskellworks)
 * https://github.com/rowtype-yoga This PureScript “anarcho type-level collective” is the model for the Haskell GitHub Trust.
 
 ## FAQ
