@@ -23,3 +23,4 @@
 | Mark Wotton | https://github.com/mwotton |  | James D. Brock |
 | YAMAMATO Yuji | https://github.com/igrep |  | James D. Brock |
 | Tim McGilchrist | https://github.com/tmcgilchrist |  | James D. Brock |
+| Chris Penner | https://github.com/ChrisPenner |  | James D. Brock |
