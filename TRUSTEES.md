@@ -24,3 +24,4 @@
 | YAMAMATO Yuji | https://github.com/igrep |  | James D. Brock |
 | Tim McGilchrist | https://github.com/tmcgilchrist |  | James D. Brock |
 | Chris Penner | https://github.com/ChrisPenner |  | James D. Brock |
+| Gregory Cox | https://github.com/xogcox |  | James D. Brock |
