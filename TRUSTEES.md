@@ -25,3 +25,4 @@
 | Tim McGilchrist | https://github.com/tmcgilchrist |  | James D. Brock |
 | Chris Penner | https://github.com/ChrisPenner |  | James D. Brock |
 | Gregory Cox | https://github.com/xogcox |  | James D. Brock |
+| Vincent Berthoux | https://github.com/Twinside |  | James D. Brock |
