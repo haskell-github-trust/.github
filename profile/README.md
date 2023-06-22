@@ -58,6 +58,10 @@ In this way you can [upload](https://hackage.haskell.org/upload) any package in 
 2. Add the Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust) to the list of package Maintainers.
 3. Transfer or fork the package repository into this org.
 
+## How to talk about the Haskell Github Trust
+
+Talk in the [GitHub Discussions](https://github.com/orgs/haskell-github-trust/discussions) or in [Haskell Discourse](https://discourse.haskell.org/).
+
 ## How to quit being a Trust Owner
 
 You can transfer your repos back to your own account and quit this organization any time you want.
