@@ -23,7 +23,7 @@ That’s it. We accept all packages, in any condition, with zero commitment or o
 Request to become a Trust Owner on the [Discussions](https://github.com/orgs/haskell-github-trust/discussions) page, or by asking any other Trust Owner. Trust Owners must be vouched for by one other Trust Owner.
 We keep a [record of which Trust Owners were vouched for by whom](https://github.com/haskell-github-trust/.github/blob/main/TRUSTEES.md).
 
-After you accept the Trust Owner invitation, [set your visiblity to __*Public*__](https://github.com/orgs/haskell-github-trust/people) for transparency.
+After you accept the Trust Owner invitation, please [set your visiblity to __*Public*__](https://github.com/orgs/haskell-github-trust/people). This is a trust-based organization, so we want the ownership list to be Public for transparency.
 
 If any Trust Owner
 
@@ -33,7 +33,7 @@ If any Trust Owner
 * Transfers a package repository out of this org without permission of the maintainer
 * Or any other similar bad-faith activity
 
-then that person and the Trust Owner who vouched for them will be publicly blamed.
+then that person and the Trust Owner who vouched for them will be blamed and shamed.
 
 ## How to add a Trust Owner
 
