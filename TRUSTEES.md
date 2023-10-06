@@ -28,3 +28,4 @@
 | Vincent Berthoux | https://github.com/Twinside |  | James D. Brock |
 | Liam Zee | https://github.com/liamzee |  | James D. Brock |
 | Tom Ellis | https://github.com/tomjaguarpaw |  | James D. Brock |
+| Andrew Lelechenko | https://github.com/Bodigrim |  | James D. Brock |
