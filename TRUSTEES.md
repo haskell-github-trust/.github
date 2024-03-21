@@ -29,3 +29,4 @@
 | Liam Zee | https://github.com/liamzee |  | James D. Brock |
 | Tom Ellis | https://github.com/tomjaguarpaw |  | James D. Brock |
 | Andrew Lelechenko | https://github.com/Bodigrim |  | James D. Brock |
+| Spencer Janssen | https://github.com/spencerjanssen |  | James D. Brock |
