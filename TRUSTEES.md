@@ -30,3 +30,4 @@
 | Andrew Lelechenko | https://github.com/Bodigrim |  | James D. Brock |
 | Spencer Janssen | https://github.com/spencerjanssen |  | James D. Brock |
 | Enis Bayramoğlu | https://github.com/enobayram |  | James D. Brock |
+| Kris Nuttycombe | https://github.com/nuttycom |  | James D. Brock |
