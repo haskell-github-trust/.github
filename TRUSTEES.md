@@ -1,4 +1,3 @@
-
 | Name | Github account | Hackage account | Vouched by |
 |--|--|--|--|
 | James D. Brock | https://github.com/jamesdbrock | https://hackage.haskell.org/user/JamesBrock | |
@@ -31,3 +30,4 @@
 | Spencer Janssen | https://github.com/spencerjanssen |  | James D. Brock |
 | Enis Bayramoğlu | https://github.com/enobayram |  | James D. Brock |
 | Kris Nuttycombe | https://github.com/nuttycom |  | James D. Brock |
+| Janus Troelsen | https://github.com/ysangkok |  | James D. Brock |
