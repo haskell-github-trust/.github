@@ -103,7 +103,7 @@ The only restricted secret is the password for the email account used to create 
   
 * Q. What happens if one of the Trust Owners inserts malicious code and publishes to Hackage?
 
-  A. Talk to the Hackage Trustees.
+  A. Talk to the other Github Haskell Trust owners and also the [Hackage Trustees](https://hackage.haskell.org/packages/trustees/).
   
 * Q. What happens if a Trust Owner deletes this whole org?
 
