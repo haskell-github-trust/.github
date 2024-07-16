@@ -5,7 +5,7 @@ Haskell GitHub Trust is a GitHub organization for community ownership of Haskell
 The two essential features of the Haskell GitHub Trust are
 
 1. All Haskell Github Trust organization members are Owners, and have control over all repositories, including transferring in and out.
-2. A Hackage “Group Account” [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust) so that every Trust Owner can publish any package in the Trust.
+2. A Hackage “Group Account” [__haskell_github_trust__](https://hackage.haskell.org/user/haskell_github_trust) so that every Trust Owner can publish any package in the Trust.
 
 This is a place to keep your Haskell packages for long-term community maintenance.
 
@@ -13,8 +13,8 @@ You will still retain ownership and control of your package, but if you ever sto
 
 ## How to add your own package to the Trust
 
-1. Transfer GitHub ownership of the package repository to this organization, https://github.com/haskell-github-trust
-2. Add https://hackage.haskell.org/user/haskell_github_trust as a Hackage maintainer for the package.
+1. Transfer GitHub ownership of the package repository to this organization, [github.com/haskell-github-trust](https://github.com/haskell-github-trust).
+2. Add the Hackage account [__haskell_github_trust__](https://hackage.haskell.org/user/haskell_github_trust) as a Hackage Maintainer for the package.
 
 That’s it. We accept all packages, in any condition, with zero commitment or obligation.
 
@@ -55,7 +55,7 @@ In this way you can [upload](https://hackage.haskell.org/upload) any package in 
 ## How to add other people’s packages to the Trust
 
 1. Follow the instructions in [Taking over a package](https://wiki.haskell.org/Taking_over_a_package) with your own Hackage account. Declare your intent to add the package to the Haskell GitHub Trust.
-2. Add the Hackage account [haskell_github_trust](https://hackage.haskell.org/user/haskell_github_trust) to the list of package Maintainers.
+2. Add the Hackage account [__haskell_github_trust__](https://hackage.haskell.org/user/haskell_github_trust) to the list of Hackage Maintainers.
 3. Transfer or fork or copy the package repository into this org.
 
 ## How to talk about the Haskell Github Trust
@@ -76,7 +76,7 @@ a package is being ignored.
 
 ## Secrets
 
-The password for the __haskell_github_trust__ Hackage account is in https://github.com/haskell-github-trust/secrets . 
+The password for the __haskell_github_trust__ Hackage account is in [github.com/haskell-github-trust/secrets](https://github.com/haskell-github-trust/secrets) . 
 
 The only restricted secret is the password for the email account used to create the __haskell_github_trust__ acount. This is stored in a separate organization https://github.com/haskell-github-trust-secrets
 
