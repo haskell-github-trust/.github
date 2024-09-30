@@ -76,9 +76,7 @@ a package is being ignored.
 
 ## Secrets
 
-The password for the __haskell_github_trust__ Hackage account is in [github.com/haskell-github-trust/secrets](https://github.com/haskell-github-trust/secrets) . 
-
-The only restricted secret is the password for the email account used to create the __haskell_github_trust__ acount. This is stored in a separate organization https://github.com/haskell-github-trust-secrets
+The password for the __haskell_github_trust__ Hackage account is in [github.com/haskell-github-trust/secrets](https://github.com/haskell-github-trust/secrets) .
 
 ## Other organizations
 
