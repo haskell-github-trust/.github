@@ -31,3 +31,4 @@
 | Enis Bayramoğlu | https://github.com/enobayram |  | James D. Brock |
 | Kris Nuttycombe | https://github.com/nuttycom |  | James D. Brock |
 | Janus Troelsen | https://github.com/ysangkok |  | James D. Brock |
+| Benjamin McRae | https://github.com/L0neGamer | https://hackage.haskell.org/user/BenjaminMcRae | James D. Brock |
