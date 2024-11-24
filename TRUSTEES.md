@@ -32,3 +32,4 @@
 | Kris Nuttycombe | https://github.com/nuttycom |  | James D. Brock |
 | Janus Troelsen | https://github.com/ysangkok |  | James D. Brock |
 | Benjamin McRae | https://github.com/L0neGamer | https://hackage.haskell.org/user/BenjaminMcRae | James D. Brock |
+| Travis Whitaker | https://github.com/TravisWhitaker |  | James D. Brock |
