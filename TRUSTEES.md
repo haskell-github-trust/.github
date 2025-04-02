@@ -33,3 +33,4 @@
 | Janus Troelsen | https://github.com/ysangkok |  | James D. Brock |
 | Benjamin McRae | https://github.com/L0neGamer | https://hackage.haskell.org/user/BenjaminMcRae | James D. Brock |
 | Travis Whitaker | https://github.com/TravisWhitaker |  | James D. Brock |
+| Antoine Gauvain | https://github.com/drlkf | https://hackage.haskell.org/user/drlkf | James D. Brock |
