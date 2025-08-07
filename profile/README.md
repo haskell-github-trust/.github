@@ -47,10 +47,16 @@ The __haskell_github_trust__ account does not have upload permission, rather it 
 on [hackage.haskell.org/upload](https://hackage.haskell.org/upload).
 
 > #### Group Accounts
-> 
+>
 > Occasionally organizations want to have a group / organizational account for a package that is maintained by a group of people. The recommended approach for these cases is to only do package uploads from individual accounts and use the group account only for managing the maintainer list for the package.
 
 In this way you can [upload](https://hackage.haskell.org/upload) any package in this org.
+
+## Organization secrets
+
+Some organization secrets are setup to allow performing actions on the
+organization and publishing to Hackage. Check out the
+[`semantic-release`](semantic-release.md) file to learn more.
 
 ## How to add other people’s packages to the Trust
 
