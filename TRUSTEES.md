@@ -37,3 +37,4 @@
 | Travis Whitaker | https://github.com/TravisWhitaker |  | James D. Brock |
 | Antoine Gauvain | https://github.com/drlkf | https://hackage.haskell.org/user/drlkf | James D. Brock |
 | Pat Brisbin | https://github.com/pbrisbin |  | James D. Brock |
+| Jeffrey Rosenbluth | https://github.com/jeffreyrosenbluth | https://hackage.haskell.org/user/jeffreyrosenbluth | James D. Brock |
