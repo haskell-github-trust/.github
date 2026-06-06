@@ -38,3 +38,4 @@
 | Antoine Gauvain | https://github.com/drlkf | https://hackage.haskell.org/user/drlkf | James D. Brock |
 | Pat Brisbin | https://github.com/pbrisbin |  | James D. Brock |
 | Jeffrey Rosenbluth | https://github.com/jeffreyrosenbluth | https://hackage.haskell.org/user/jeffreyrosenbluth | James D. Brock |
+| Artem Pelenitsyn | https://github.com/ulysses4ever | https://hackage.haskell.org/user/ArtemPelenitsyn | James D. Brock |
